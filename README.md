@@ -15,7 +15,7 @@ A simple script to gain a lot of subscriptions to your zora account.
 
 <kbd>![image](https://github.com/Koteika1156/ZORAmassSUBS/assets/89998783/c8606c50-24f1-468c-b861-75a36d7d96a7)</kbd>
 
-4) Now press `CTRL + SHIFT + I` on your keyboard and select the 'console' tab. (If the subscriber list gets closed - reopen it!)
+4) Now press `CTRL + SHIFT + I` on your keyboard and select the 'console' tab. **(IF THE SUBSCRIBER LIST GETS CLOSED - REOPEN IT!)**
 
   <kbd> ![image](https://github.com/Koteika1156/ZORAmassSUBS/assets/89998783/2e60cbd9-dd7c-489f-a5de-ec6511a5d33b)</kbd>
 

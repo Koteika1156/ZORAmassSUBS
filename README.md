@@ -1,7 +1,7 @@
 # ZORAmassSUBS
 A simple script to gain a lot of subscriptions to your zora account.
 
-## Instructions:
+## Instruction:
 
 1) Open the page of any zora user with a large number of subscriptions (for example https://zora.co/0x252b438c977468ee0a7b2bfc2bbcdc036a13c03e).
 

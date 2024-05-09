@@ -4,6 +4,7 @@ A simple script to gain a lot of subscriptions to your zora account.
 ## Instruction:
 
 1) Open the page of any zora user with a large number of subscriptions (for example https://zora.co/0x252b438c977468ee0a7b2bfc2bbcdc036a13c03e).
+   Due to the nature of the zora site - the recommended number of subs is 200 - 300 subs. If the number of subs is large, you may experience freezes.
 
 <kbd>![image](https://github.com/Koteika1156/ZORAmassSUBS/assets/89998783/f93568b8-a4ed-4c2c-9a09-973a4d1de7aa)</kbd>
 

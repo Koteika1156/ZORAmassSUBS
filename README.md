@@ -1,7 +1,7 @@
 # ZORAmassSUBS
 A simple script to gain a lot of subscriptions to your zora account.
 
-##Instructions:
+## Instructions:
 
 1) Open the page of any zora user with a large number of subscriptions (for example https://zora.co/0x252b438c977468ee0a7b2bfc2bbcdc036a13c03e).
 
@@ -13,7 +13,7 @@ A simple script to gain a lot of subscriptions to your zora account.
 
 3) It'll show up:
 
-![image](https://github.com/Koteika1156/ZORAmassSUBS/assets/89998783/c8606c50-24f1-468c-b861-75a36d7d96a7)
+<kbd>![image](https://github.com/Koteika1156/ZORAmassSUBS/assets/89998783/c8606c50-24f1-468c-b861-75a36d7d96a7)</kbd>
 
 4) Now press `CTRL + SHIFT + I` on your keyboard.
    
